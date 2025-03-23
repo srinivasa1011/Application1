@@ -1,9 +1,6 @@
 
-# Full-Stack Ecommerce Application
-The application would be split into two parts: a front-end user interface built with React JS and a back-end server built with Node JS and Express JS. The database management would be handled by MySQL.
-
-
-
+# Ecommerce App
+The application would be split into two parts: a front-end user interface built with React JS and a back-end server built with Node JS and Express JS. The database management would be handled by MySQL
 
 
 ## Features
@@ -11,16 +8,8 @@ The application would be split into two parts: a front-end user interface built 
 - Product Catalog
 - Shopping Cart
 - Checkout Process
-- User Accounts
-- Search Functionality
-- Payment Gateway Integration
-- Mobile Responsiveness
-- Analytics and Reporting
-
-
-
-
-
+- Search feature
+- Payment  Integration
 
 ## Tech Stack
 
@@ -35,8 +24,6 @@ cors,
 dotenv,
 express,
 express-validator,
-jsonwebtoken,
-multer,
 mysql2,
 nodemailer,
 nodemon,
